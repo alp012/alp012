@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alp012
 - 👀 I’m interested creating projects using R
 - 🌱 I’m currently learning R studio and Python
-- 💞️ I’m looking to collaborate on fun projects that improve my skill
+- 💞️ I’m looking to collaborate on fun projects that improve my skills
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: my favorite book series is the Stormlight Archive by Brandon Sanderson
 
